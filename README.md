@@ -1,2 +1,2 @@
-# Primeiros-Projetoss
+# Primeiros-Projetos
 Curso Python
